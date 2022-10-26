@@ -1,0 +1,12 @@
+C:\Users\inniesharp\Documents\SharpDevelop Projects\PythonBox\PythonBox\bin\Debug\PythonBox.exe.config
+C:\Users\inniesharp\Documents\SharpDevelop Projects\PythonBox\PythonBox\bin\Debug\PythonBox.exe
+C:\Users\inniesharp\Documents\SharpDevelop Projects\PythonBox\PythonBox\bin\Debug\PythonBox.dll
+C:\Users\inniesharp\Documents\SharpDevelop Projects\PythonBox\PythonBox\bin\Debug\IronPython.dll
+C:\Users\inniesharp\Documents\SharpDevelop Projects\PythonBox\PythonBox\bin\Debug\IronPython.Modules.dll
+C:\Users\inniesharp\Documents\SharpDevelop Projects\PythonBox\PythonBox\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\inniesharp\Documents\SharpDevelop Projects\PythonBox\PythonBox\bin\Debug\Microsoft.Scripting.dll
+C:\Users\inniesharp\Documents\SharpDevelop Projects\PythonBox\PythonBox\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\inniesharp\Documents\SharpDevelop Projects\PythonBox\PythonBox\obj\Debug\PythonBox.pyprojResolveAssemblyReference.cache
+C:\Users\inniesharp\Documents\SharpDevelop Projects\PythonBox\PythonBox\obj\Debug\PythonBox.MainForm.resources
+C:\Users\inniesharp\Documents\SharpDevelop Projects\PythonBox\PythonBox\obj\Debug\PythonBox.pyproj.GenerateResource.Cache
+C:\Users\inniesharp\Documents\SharpDevelop Projects\PythonBox\PythonBox\obj\Debug\PythonBox.exe
